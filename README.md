@@ -2,6 +2,18 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# Project Description
+This is a simple website for personal portfolio that is made by REACT JS. All data comes from rest api (reactapi.toihid.com) 
+that is build by Lumen 8 and the source file is in https://github.com/csetoihid/reactapi. 
+
+## Demo
+http://react.toihid.com/
+
+## Contact informatio 
+Always welcome for Questions and Feedbacks
+  
+
+
 ## How to run this project
 1. Clone project
 2. cd react-profile-theme-development
@@ -23,6 +35,13 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
     "recharts": "^1.8.5",
     "slick-carousel": "^1.8.1",
     "video-react": "^0.14.1"
+	
+
+
+
+
+
+	
 
 
 
