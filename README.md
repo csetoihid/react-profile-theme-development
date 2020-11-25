@@ -3,7 +3,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 # Project Description
-This is a simple website for personal portfolio that is made by REACT JS. All data comes from rest api (reactapi.toihid.com) 
+This is a simple website for personal portfolio that is made by REACT JS . All data comes from rest api (reactapi.toihid.com) 
 that is build by Lumen 8 and the source file is in https://github.com/csetoihid/reactapi. 
 
 ## Demo
@@ -11,6 +11,10 @@ http://react.toihid.com/
 
 ## Contact informatio 
 Always welcome for Questions and Feedbacks
++460704689584
+cse.toihid@gmail.com
+www.toihid.com
+https://www.linkedin.com/in/toihid/
   
 
 
